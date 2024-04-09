@@ -1,9 +1,9 @@
 import './App.css';
-
+import { Portwrapper } from './components/PortfolioWrapper';
 function App() {
   return (
     <div className="App">
-      <h1>Hello world</h1>
+      <Portwrapper/>
     </div>
   );
 }
